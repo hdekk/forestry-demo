@@ -4,7 +4,7 @@ title: " I wear a fez now"
 sub_heading: Bow ties are cool.
 date: 2019-06-23 20:00:00 +0000
 tags: []
-banner_image: ''
+banner_image: "/uploads/2018/02/17/bridge3.jpg"
 related_posts: []
 
 ---
