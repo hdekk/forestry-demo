@@ -38,3 +38,5 @@ fields:
   type: text
   hidden: true
   default: post
+pages:
+- _posts/i-wear-a-fez-now.md
