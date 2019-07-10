@@ -38,3 +38,6 @@ fields:
   type: text
   hidden: true
   default: post
+pages:
+- _posts/2019-07-05-welcome-to-new-staff.md
+- _posts/2019-06-23-i-wear-a-fez-now.md
