@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " I wear a fez now"
+title: " I wear a black fez now"
 sub_heading: Bow ties are cool.
 date: 2019-06-23 20:00:00 +0000
 tags: []
